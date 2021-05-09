@@ -3,7 +3,7 @@ package com.shakz.springboot.employee.repository;
 public class EmployeeRepository {
 	
 		
-	private int id;
+	public int id;
 	private String name;
 	private int age;
 	private double salary;
